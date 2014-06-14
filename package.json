@@ -1,0 +1,16 @@
+{
+  "name": "ground",
+  "version": "0.0.1",
+  "description": "Yet another static site generator.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ws/ground.git"
+  },
+  "author": "Will Smidlein <will@willsmidlein.com> (http://willsmidlein.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ws/ground/issues"
+  },
+  "homepage": "https://github.com/ws/ground"
+}
